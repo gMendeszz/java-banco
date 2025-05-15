@@ -15,10 +15,10 @@ Trata-se de uma aplicação simples em Java que simula o cadastro e validação 
 ##  Funcionalidades
 
 - Solicitação de informações ao usuário via console:
-  - Número da agência
-  - Número da conta
-  - Nome do titular
-  - Saldo inicial
+- Número da agência
+- Número da conta
+- Nome do titular
+- Saldo inicial
 - Validação simples dos dados (agência e conta)
 - Exibição de mensagens personalizadas conforme o resultado da validação
 - Formatação adequada do saldo exibido
